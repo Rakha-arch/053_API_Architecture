@@ -7,3 +7,5 @@ router.get('/', (req, res) => {
     message: 'API Architecture Meeting 6 is running'
   });
 })
+
+module.exports = router;
